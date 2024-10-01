@@ -1,4 +1,4 @@
-# 2D-to-3D - NeRF
+# Democratizing 3D Interior Design with NeRF Neural Networks
 
 Neural Network project to transform a set of 2D images to a 3D model following the NeRF paper.
 
