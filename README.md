@@ -1,6 +1,6 @@
 # Democratizing 3D Interior Design with NeRF Neural Networks
 
-Neural Network project to transform a set of 2D images to a 3D model following the NeRF paper.
+Neural Network project to transform a set of 2D images to a 3D model following the NeRF paper. Please read the final report for full details.
 
 ## Disclaimer
 
